@@ -1,1 +1,2 @@
-# gitcontrol_demo
+# gitcontrol_de
+learning git command
